@@ -1,0 +1,12 @@
+# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+code
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+
